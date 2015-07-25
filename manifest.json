@@ -21,7 +21,7 @@
 	},
 	
 	"background": {
-		"scripts":["Duplicate_Tab.js"]
+		"scripts":["DuplicateTab.js"]
 	},
 	
 	"permissions": [
